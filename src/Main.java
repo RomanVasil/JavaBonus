@@ -14,6 +14,6 @@ public class Main {
             bonus = 0;
         }
 
-        System.out.println(balance + replenishment + bonus + " баланс счета");
+        System.out.println(balance + replenishment + bonus + " баланс счета");  //вывод результата
     }
 }
